@@ -38,3 +38,131 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 DevTools listening on ws://127.0.0.1:56725/devtools/browser/7a4321d4-c893-4807-b9a6-eeceb87f8bac
 console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 488))
 1683363433526	Marionette	INFO	Stopped listening on port 40613
+1684045753410	geckodriver	INFO	Listening on 127.0.0.1:39543
+1684045753964	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "52141" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4pjx25"
+Gtk-Message: 11:59:13.988: Failed to load module "xapp-gtk3-module"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684045756432	Marionette	INFO	Marionette enabled
+1684045756467	Marionette	INFO	Listening on port 38607
+Read port: 38607
+WebDriver BiDi listening on ws://127.0.0.1:52141
+1684045756903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4pjx25/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:52141/devtools/browser/12933d89-e9cd-4225-bec4-4f9394193836
+1684045762977	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1684045777208	Marionette	INFO	Stopped listening on port 38607
+1684045784505	geckodriver	INFO	Listening on 127.0.0.1:45887
+1684045784574	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "41221" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJOnuM2"
+Gtk-Message: 11:59:44.599: Failed to load module "xapp-gtk3-module"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684045785286	Marionette	INFO	Marionette enabled
+1684045785289	Marionette	INFO	Listening on port 46331
+Read port: 46331
+WebDriver BiDi listening on ws://127.0.0.1:41221
+1684045785431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJOnuM2/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:41221/devtools/browser/3e3478ff-31e7-4bc5-8124-9b3dcaf6bca6
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-main-vendor.aaab658e49fef616fec2.js, line 2: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-main-vendor.aaab658e49fef616fec2.js, line 2: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-main-vendor.aaab658e49fef616fec2.js, line 2: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-main-vendor.aaab658e49fef616fec2.js, line 2: Error: Request failed with status code 403
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-main-manifest.4dfa42873b5a98322fb5.js, line 1: Error: Loading chunk braze failed.
+(error: https://www.udemy.com/staticx/udemy/js/webpack/braze.6a95b6cb45f05eb7e8ce.js)
+JavaScript warning: https://www.udemy.com/cdn-cgi/challenge-platform/h/g/orchestrate/managed/v1?ray=7c71177f1e734b16 line 1 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=7c71179a9f8c4b11 line 1 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1684045849835	Marionette	INFO	Stopped listening on port 46331
+1684045891573	geckodriver	INFO	Listening on 127.0.0.1:53455
+1684045891623	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "59587" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFPVH8j"
+Gtk-Message: 12:01:31.662: Failed to load module "xapp-gtk3-module"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684045892134	Marionette	INFO	Marionette enabled
+1684045892137	Marionette	INFO	Listening on port 33937
+Read port: 33937
+WebDriver BiDi listening on ws://127.0.0.1:59587
+1684045892667	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFPVH8j/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:59587/devtools/browser/229279f2-52b0-4205-b479-f908faed63e6
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-main-manifest.4dfa42873b5a98322fb5.js, line 1: Error: Loading chunk braze failed.
+(error: https://www.udemy.com/staticx/udemy/js/webpack/braze.6a95b6cb45f05eb7e8ce.js)
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-main-vendor.aaab658e49fef616fec2.js, line 2: InternalError: too much recursion
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-main-vendor.aaab658e49fef616fec2.js, line 2: InternalError: too much recursion
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-main-vendor.aaab658e49fef616fec2.js, line 2: InternalError: too much recursion
+JavaScript warning: https://www.udemy.com/cdn-cgi/challenge-platform/h/g/orchestrate/managed/v1?ray=7c7119dcbfb9f388 line 1 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.udemy.com/cdn-cgi/challenge-platform/h/g/orchestrate/managed/v1?ray=7c7119dcbfb9f388 line 1 > Function, line 3: TypeError: window[_[39]] is undefined
+JavaScript warning: https://www.udemy.com/cdn-cgi/challenge-platform/h/g/orchestrate/managed/v1?ray=7c711a06d873f388 line 1 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1684045984474	Marionette	INFO	Stopped listening on port 33937
+1684046063515	geckodriver	INFO	Listening on 127.0.0.1:36693
+1684046063566	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "49695" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYSZyHL"
+Gtk-Message: 12:04:23.606: Failed to load module "xapp-gtk3-module"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684046064076	Marionette	INFO	Marionette enabled
+1684046064079	Marionette	INFO	Listening on port 45587
+Read port: 45587
+WebDriver BiDi listening on ws://127.0.0.1:49695
+1684046064622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYSZyHL/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:49695/devtools/browser/ac6307d0-5c04-40e4-aad9-e8c5537e5f95
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-main-manifest.4dfa42873b5a98322fb5.js, line 1: Error: Loading chunk vendors~braze failed.
+(error: https://www.udemy.com/staticx/udemy/js/webpack/vendors~braze.3f5f9f70163ddebfe2e1.js)
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-main-vendor.aaab658e49fef616fec2.js, line 2: InternalError: too much recursion
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-main-vendor.aaab658e49fef616fec2.js, line 2: InternalError: too much recursion
+JavaScript warning: https://www.udemy.com/cdn-cgi/challenge-platform/h/g/orchestrate/managed/v1?ray=7c711e270d45f3e5 line 1 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=7c711e2eadd706b0 line 1 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1684046094001	Marionette	INFO	Stopped listening on port 45587
+1684046189870	geckodriver	INFO	Listening on 127.0.0.1:50551
+1684046189926	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "35465" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegeh7IU"
+Gtk-Message: 12:06:29.956: Failed to load module "xapp-gtk3-module"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684046190432	Marionette	INFO	Marionette enabled
+1684046190435	Marionette	INFO	Listening on port 42471
+WebDriver BiDi listening on ws://127.0.0.1:35465
+Read port: 42471
+1684046191163	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegeh7IU/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:35465/devtools/browser/4c239af8-b48f-490b-bbb0-03c29420e820
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-main-manifest.4dfa42873b5a98322fb5.js, line 1: Error: Loading chunk vendors~braze failed.
+(error: https://www.udemy.com/staticx/udemy/js/webpack/vendors~braze.3f5f9f70163ddebfe2e1.js)
+JavaScript warning: https://www.udemy.com/cdn-cgi/challenge-platform/h/g/orchestrate/managed/v1?ray=7c7121485d31857d line 1 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=7c712152293fb28e line 1 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1684046257327	Marionette	INFO	Stopped listening on port 42471
