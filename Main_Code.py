@@ -32,7 +32,7 @@ message=driver.find_element(By.XPATH,"/html/body/div[2]/div/div/div[2]/div/div/d
 time.sleep(10)
 text=driver.find_element(By.XPATH,"/html/body/div[2]/div/div/div[2]/div/div/div/div[1]/div[1]/div[2]/section/div/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div/div/div[2]/div/div/div[2]/div/div[1]/p")
 time.sleep(5)
-text.send_keys("Yee Vedya")
+text.send_keys("Big Fan Sir")
 time.sleep(2)
 text.send_keys(Keys.ENTER)
 time.sleep(15)
